@@ -1,0 +1,38 @@
+h1, h2, h3, p {
+    font-family: Helvetica;
+}
+
+h1 {
+   background-image: url('c:/dasmotoAC/resources/css/pattern.jpeg');
+    text-align: center;
+    font-size: 100px;
+    font-weight: bold;
+    color: Khaki;
+  }
+
+h2{
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  }
+  
+p {
+  font-size: 18px;
+}
+
+#brush {
+  background-color: mediumspringgreen;
+}
+
+#frame {
+  background-color: lightcoral;
+}
+
+#paint {
+  background-color: skyblue;
+}
+
+.price {
+  color: blue;
+  font-weight: bold;
+}
